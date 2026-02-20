@@ -239,7 +239,7 @@ strange-attractor-visualiser/
 ├── app.py                   # Streamlit wrapper
 ├── requirements.txt         # Python deps (just streamlit)
 ├── README.md
-└── screenshots/             # 📸 Put your screenshots here
+└── screenshots/            
     ├── overview.png
     ├── sidebar_controls.png
     ├── lorenz.png
@@ -345,4 +345,5 @@ MIT — do whatever you want with it.
 
 ---
 
-> *"Chaos is not disorder — it is order beyond our ability to see."*
+> *"Chaos is not disorder — it is order beyond our ability to see."* 
+> *© Jaishak J*
